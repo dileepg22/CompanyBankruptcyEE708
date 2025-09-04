@@ -1,1 +1,2 @@
-# CompanyBankruptcyEE708
+# CompanyBankruptcyEE708 <br>
+Prof. Rajesh M. Hegde
